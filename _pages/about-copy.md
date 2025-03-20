@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /copy/
 title: "Zhihang's Pages"
 author_profile: true
 redirect_from: 

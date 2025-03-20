@@ -25,9 +25,9 @@ author:
   avatar           : "tzh.jpg"
   name             : "Zhihang Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab."
   location         : "Hangzhou,China"
-  employer         : "Zhejiang Lab"
+  employer         : # "Zhejiang Lab"
   uri              : # URL
   email            : "tangzhi@zju.edu.cn" 
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "zhiangtang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -156,6 +156,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _english
   - files
 exclude:
   - "*.sublime-project"
